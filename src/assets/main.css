@@ -1,0 +1,11 @@
+@import '../../node_modules/bootstrap/dist/css/bootstrap-reboot.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap-utilities.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap-grid.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+@import './base.css';
+
+#app {
+    width: 100%;
+    overflow-x: hidden;
+    position: relative;
+}

@@ -1,0 +1,7 @@
+:root {
+  --bs-light-bg-subtle: #ffffff;
+
+  --bs-light-text-emphasis: #ffffff;
+  --bs-danger-text-emphasis: #ff0000;
+  --bs-danger-rgb: 255, 0, 0;
+}
